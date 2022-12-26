@@ -17,6 +17,6 @@ Projeto de backend de entregas constrúido no módulo bônus no bootcamp ignite 
 
 - PrismORM
 - Nodejs 
-
+- Express
 
 
