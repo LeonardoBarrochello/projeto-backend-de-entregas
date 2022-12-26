@@ -13,3 +13,10 @@ Projeto de backend de entregas constrúido no módulo bônus no bootcamp ignite 
 [x] É possível finalizar entregas.
 
 
+## Tecnologias utilizadas
+
+- PrismORM
+- Nodejs 
+
+
+
